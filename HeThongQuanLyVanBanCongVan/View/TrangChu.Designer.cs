@@ -48,7 +48,48 @@ namespace HeThongQuanLyVanBanCongVan
             this.panel1 = new System.Windows.Forms.Panel();
             this.tabControl2 = new System.Windows.Forms.TabControl();
             this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.pictureBox31 = new System.Windows.Forms.PictureBox();
+            this.pictureBox30 = new System.Windows.Forms.PictureBox();
+            this.pictureBox29 = new System.Windows.Forms.PictureBox();
+            this.pictureBox28 = new System.Windows.Forms.PictureBox();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
+            this.pictureBox26 = new System.Windows.Forms.PictureBox();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
+            this.pictureBox24 = new System.Windows.Forms.PictureBox();
+            this.pictureBox23 = new System.Windows.Forms.PictureBox();
+            this.button32 = new System.Windows.Forms.Button();
+            this.button31 = new System.Windows.Forms.Button();
+            this.button30 = new System.Windows.Forms.Button();
+            this.button29 = new System.Windows.Forms.Button();
+            this.button28 = new System.Windows.Forms.Button();
+            this.button27 = new System.Windows.Forms.Button();
+            this.label35 = new System.Windows.Forms.Label();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.pictureBox22 = new System.Windows.Forms.PictureBox();
+            this.pictureBox21 = new System.Windows.Forms.PictureBox();
+            this.pictureBox20 = new System.Windows.Forms.PictureBox();
+            this.pictureBox19 = new System.Windows.Forms.PictureBox();
+            this.pictureBox18 = new System.Windows.Forms.PictureBox();
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.pictureBox15 = new System.Windows.Forms.PictureBox();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.pictureBox13 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.button26 = new System.Windows.Forms.Button();
+            this.button25 = new System.Windows.Forms.Button();
+            this.button24 = new System.Windows.Forms.Button();
+            this.button23 = new System.Windows.Forms.Button();
+            this.button21 = new System.Windows.Forms.Button();
+            this.button22 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label34 = new System.Windows.Forms.Label();
             this.tabPageVanBanNoiBo = new System.Windows.Forms.TabPage();
             this.tabControl3 = new System.Windows.Forms.TabControl();
             this.tabPagePhongBan = new System.Windows.Forms.TabPage();
@@ -116,7 +157,56 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabPageTimKiem = new System.Windows.Forms.TabPage();
             this.tabControl4 = new System.Windows.Forms.TabControl();
             this.tabPage7 = new System.Windows.Forms.TabPage();
+            this.label57 = new System.Windows.Forms.Label();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.label54 = new System.Windows.Forms.Label();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.button37 = new System.Windows.Forms.Button();
+            this.button39 = new System.Windows.Forms.Button();
+            this.button40 = new System.Windows.Forms.Button();
+            this.comboBox6 = new System.Windows.Forms.ComboBox();
+            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.dateTimePicker7 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePicker8 = new System.Windows.Forms.DateTimePicker();
+            this.label45 = new System.Windows.Forms.Label();
+            this.label46 = new System.Windows.Forms.Label();
+            this.label47 = new System.Windows.Forms.Label();
+            this.label48 = new System.Windows.Forms.Label();
+            this.label49 = new System.Windows.Forms.Label();
+            this.comboBox8 = new System.Windows.Forms.ComboBox();
+            this.comboBox9 = new System.Windows.Forms.ComboBox();
+            this.label51 = new System.Windows.Forms.Label();
+            this.label52 = new System.Windows.Forms.Label();
+            this.label53 = new System.Windows.Forms.Label();
+            this.label33 = new System.Windows.Forms.Label();
             this.tabPage8 = new System.Windows.Forms.TabPage();
+            this.label56 = new System.Windows.Forms.Label();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.label55 = new System.Windows.Forms.Label();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.button33 = new System.Windows.Forms.Button();
+            this.button35 = new System.Windows.Forms.Button();
+            this.button36 = new System.Windows.Forms.Button();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.dateTimePicker5 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePicker6 = new System.Windows.Forms.DateTimePicker();
+            this.label36 = new System.Windows.Forms.Label();
+            this.label37 = new System.Windows.Forms.Label();
+            this.label38 = new System.Windows.Forms.Label();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.comboBox4 = new System.Windows.Forms.ComboBox();
+            this.comboBox5 = new System.Windows.Forms.ComboBox();
+            this.label42 = new System.Windows.Forms.Label();
+            this.label43 = new System.Windows.Forms.Label();
+            this.label44 = new System.Windows.Forms.Label();
             this.tabPage9 = new System.Windows.Forms.TabPage();
             this.panel13 = new System.Windows.Forms.Panel();
             this.dataGridViewVBNB1 = new System.Windows.Forms.DataGridView();
@@ -146,11 +236,17 @@ namespace HeThongQuanLyVanBanCongVan
             this.label23 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.btnTimKiemThongKe = new System.Windows.Forms.Button();
+            this.btnQuanLyVbNoiBo = new System.Windows.Forms.Button();
+            this.btnQuanLyVanBan = new System.Windows.Forms.Button();
+            this.btnHeThong = new System.Windows.Forms.Button();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.button14 = new System.Windows.Forms.Button();
             this.button13 = new System.Windows.Forms.Button();
@@ -159,34 +255,54 @@ namespace HeThongQuanLyVanBanCongVan
             this.button10 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
             this.tabPage3 = new System.Windows.Forms.TabPage();
             this.button17 = new System.Windows.Forms.Button();
             this.button16 = new System.Windows.Forms.Button();
             this.button15 = new System.Windows.Forms.Button();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.button20 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.btnTimKiemThongKe = new System.Windows.Forms.Button();
-            this.btnQuanLyVbNoiBo = new System.Windows.Forms.Button();
-            this.btnQuanLyVanBan = new System.Windows.Forms.Button();
-            this.btnHeThong = new System.Windows.Forms.Button();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.đăngNhậpLạiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.đổiMậtKhẩuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thoátToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.sửaThôngTinNgườiDùngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
-            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.fileSystemWatcher1 = new System.IO.FileSystemWatcher();
+            this.bindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.panel1.SuspendLayout();
             this.tabControl2.SuspendLayout();
             this.tabPage5.SuspendLayout();
+            this.panel14.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.tabPageVanBanNoiBo.SuspendLayout();
             this.tabControl3.SuspendLayout();
@@ -215,24 +331,35 @@ namespace HeThongQuanLyVanBanCongVan
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVBNB)).BeginInit();
             this.tabPageTimKiem.SuspendLayout();
             this.tabControl4.SuspendLayout();
+            this.tabPage7.SuspendLayout();
+            this.panel17.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panel16.SuspendLayout();
+            this.tabPage8.SuspendLayout();
+            this.panel18.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.panel15.SuspendLayout();
             this.tabPage9.SuspendLayout();
             this.panel13.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVBNB1)).BeginInit();
             this.panel12.SuspendLayout();
             this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
             this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
             this.tabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             this.tabPage4.SuspendLayout();
-            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.contextMenuStrip2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -252,8 +379,8 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabControl2.Controls.Add(this.tabPage5);
             this.tabControl2.Controls.Add(this.tabPageVanBanNoiBo);
             this.tabControl2.Controls.Add(this.tabPageTimKiem);
-            this.tabControl2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabControl2.Location = new System.Drawing.Point(419, 47);
+            this.tabControl2.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabControl2.Location = new System.Drawing.Point(410, 47);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
             this.tabControl2.Size = new System.Drawing.Size(1920, 1056);
@@ -261,8 +388,10 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             // tabPage5
             // 
-            this.tabPage5.Controls.Add(this.pictureBox3);
-            this.tabPage5.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage5.Controls.Add(this.panel14);
+            this.tabPage5.Controls.Add(this.panel4);
+            this.tabPage5.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage5.ForeColor = System.Drawing.Color.LightCyan;
             this.tabPage5.Location = new System.Drawing.Point(4, 34);
             this.tabPage5.Name = "tabPage5";
             this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
@@ -271,20 +400,486 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabPage5.Text = "Trang chủ";
             this.tabPage5.UseVisualStyleBackColor = true;
             // 
+            // panel14
+            // 
+            this.panel14.BackColor = System.Drawing.Color.LightCyan;
+            this.panel14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel14.Controls.Add(this.pictureBox31);
+            this.panel14.Controls.Add(this.pictureBox30);
+            this.panel14.Controls.Add(this.pictureBox29);
+            this.panel14.Controls.Add(this.pictureBox28);
+            this.panel14.Controls.Add(this.pictureBox27);
+            this.panel14.Controls.Add(this.pictureBox26);
+            this.panel14.Controls.Add(this.pictureBox25);
+            this.panel14.Controls.Add(this.pictureBox24);
+            this.panel14.Controls.Add(this.pictureBox23);
+            this.panel14.Controls.Add(this.button32);
+            this.panel14.Controls.Add(this.button31);
+            this.panel14.Controls.Add(this.button30);
+            this.panel14.Controls.Add(this.button29);
+            this.panel14.Controls.Add(this.button28);
+            this.panel14.Controls.Add(this.button27);
+            this.panel14.Controls.Add(this.label35);
+            this.panel14.Location = new System.Drawing.Point(811, 6);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(811, 884);
+            this.panel14.TabIndex = 2;
+            // 
+            // pictureBox31
+            // 
+            this.pictureBox31.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox31.Image")));
+            this.pictureBox31.Location = new System.Drawing.Point(117, 383);
+            this.pictureBox31.Name = "pictureBox31";
+            this.pictureBox31.Size = new System.Drawing.Size(523, 25);
+            this.pictureBox31.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox31.TabIndex = 25;
+            this.pictureBox31.TabStop = false;
+            // 
+            // pictureBox30
+            // 
+            this.pictureBox30.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox30.Image")));
+            this.pictureBox30.Location = new System.Drawing.Point(388, 347);
+            this.pictureBox30.Name = "pictureBox30";
+            this.pictureBox30.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox30.TabIndex = 29;
+            this.pictureBox30.TabStop = false;
+            // 
+            // pictureBox29
+            // 
+            this.pictureBox29.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox29.Image")));
+            this.pictureBox29.Location = new System.Drawing.Point(92, 212);
+            this.pictureBox29.Name = "pictureBox29";
+            this.pictureBox29.Size = new System.Drawing.Size(590, 25);
+            this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox29.TabIndex = 28;
+            this.pictureBox29.TabStop = false;
+            // 
+            // pictureBox28
+            // 
+            this.pictureBox28.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox28.Image")));
+            this.pictureBox28.Location = new System.Drawing.Point(608, 162);
+            this.pictureBox28.Name = "pictureBox28";
+            this.pictureBox28.Size = new System.Drawing.Size(32, 63);
+            this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox28.TabIndex = 27;
+            this.pictureBox28.TabStop = false;
+            // 
+            // pictureBox27
+            // 
+            this.pictureBox27.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox27.Image")));
+            this.pictureBox27.Location = new System.Drawing.Point(388, 162);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(32, 63);
+            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox27.TabIndex = 26;
+            this.pictureBox27.TabStop = false;
+            // 
+            // pictureBox26
+            // 
+            this.pictureBox26.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox26.Image")));
+            this.pictureBox26.Location = new System.Drawing.Point(130, 162);
+            this.pictureBox26.Name = "pictureBox26";
+            this.pictureBox26.Size = new System.Drawing.Size(32, 63);
+            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox26.TabIndex = 25;
+            this.pictureBox26.TabStop = false;
+            // 
+            // pictureBox25
+            // 
+            this.pictureBox25.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox25.Image")));
+            this.pictureBox25.Location = new System.Drawing.Point(565, 404);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox25.TabIndex = 19;
+            this.pictureBox25.TabStop = false;
+            // 
+            // pictureBox24
+            // 
+            this.pictureBox24.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox24.Image")));
+            this.pictureBox24.Location = new System.Drawing.Point(143, 399);
+            this.pictureBox24.Name = "pictureBox24";
+            this.pictureBox24.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox24.TabIndex = 18;
+            this.pictureBox24.TabStop = false;
+            // 
+            // pictureBox23
+            // 
+            this.pictureBox23.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox23.Image")));
+            this.pictureBox23.Location = new System.Drawing.Point(388, 231);
+            this.pictureBox23.Name = "pictureBox23";
+            this.pictureBox23.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox23.TabIndex = 17;
+            this.pictureBox23.TabStop = false;
+            // 
+            // button32
+            // 
+            this.button32.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button32.ForeColor = System.Drawing.Color.Navy;
+            this.button32.Location = new System.Drawing.Point(431, 438);
+            this.button32.Name = "button32";
+            this.button32.Size = new System.Drawing.Size(263, 76);
+            this.button32.TabIndex = 16;
+            this.button32.Text = "Tìm kiếm thống kê";
+            this.button32.UseVisualStyleBackColor = true;
+            // 
+            // button31
+            // 
+            this.button31.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button31.ForeColor = System.Drawing.Color.Navy;
+            this.button31.Location = new System.Drawing.Point(23, 438);
+            this.button31.Name = "button31";
+            this.button31.Size = new System.Drawing.Size(263, 76);
+            this.button31.TabIndex = 15;
+            this.button31.Text = "Danh sách văn bản nội bộ";
+            this.button31.UseVisualStyleBackColor = true;
+            // 
+            // button30
+            // 
+            this.button30.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button30.ForeColor = System.Drawing.Color.Navy;
+            this.button30.Location = new System.Drawing.Point(280, 274);
+            this.button30.Name = "button30";
+            this.button30.Size = new System.Drawing.Size(221, 74);
+            this.button30.TabIndex = 14;
+            this.button30.Text = "Văn bản nội bộ";
+            this.button30.UseVisualStyleBackColor = true;
+            // 
+            // button29
+            // 
+            this.button29.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button29.ForeColor = System.Drawing.Color.Navy;
+            this.button29.Location = new System.Drawing.Point(534, 82);
+            this.button29.Name = "button29";
+            this.button29.Size = new System.Drawing.Size(181, 79);
+            this.button29.TabIndex = 13;
+            this.button29.Text = "Phòng ban nhận";
+            this.button29.UseVisualStyleBackColor = true;
+            // 
+            // button28
+            // 
+            this.button28.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button28.ForeColor = System.Drawing.Color.Navy;
+            this.button28.Location = new System.Drawing.Point(280, 82);
+            this.button28.Name = "button28";
+            this.button28.Size = new System.Drawing.Size(221, 76);
+            this.button28.TabIndex = 12;
+            this.button28.Text = "Phòng ban hành";
+            this.button28.UseVisualStyleBackColor = true;
+            // 
+            // button27
+            // 
+            this.button27.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button27.ForeColor = System.Drawing.Color.Navy;
+            this.button27.Location = new System.Drawing.Point(35, 82);
+            this.button27.Name = "button27";
+            this.button27.Size = new System.Drawing.Size(214, 76);
+            this.button27.TabIndex = 11;
+            this.button27.Text = "Loại văn bản";
+            this.button27.UseVisualStyleBackColor = true;
+            // 
+            // label35
+            // 
+            this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label35.ForeColor = System.Drawing.Color.Navy;
+            this.label35.Location = new System.Drawing.Point(185, 26);
+            this.label35.Name = "label35";
+            this.label35.Size = new System.Drawing.Size(439, 31);
+            this.label35.TabIndex = 1;
+            this.label35.Text = "QUY TRÌNH QUẢN LÝ VĂN BẢN NỘI BỘ";
+            // 
+            // panel4
+            // 
+            this.panel4.BackColor = System.Drawing.Color.LightCyan;
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Controls.Add(this.pictureBox22);
+            this.panel4.Controls.Add(this.pictureBox21);
+            this.panel4.Controls.Add(this.pictureBox20);
+            this.panel4.Controls.Add(this.pictureBox19);
+            this.panel4.Controls.Add(this.pictureBox18);
+            this.panel4.Controls.Add(this.pictureBox17);
+            this.panel4.Controls.Add(this.pictureBox16);
+            this.panel4.Controls.Add(this.pictureBox15);
+            this.panel4.Controls.Add(this.pictureBox14);
+            this.panel4.Controls.Add(this.pictureBox13);
+            this.panel4.Controls.Add(this.pictureBox12);
+            this.panel4.Controls.Add(this.pictureBox11);
+            this.panel4.Controls.Add(this.pictureBox10);
+            this.panel4.Controls.Add(this.pictureBox3);
+            this.panel4.Controls.Add(this.button26);
+            this.panel4.Controls.Add(this.button25);
+            this.panel4.Controls.Add(this.button24);
+            this.panel4.Controls.Add(this.button23);
+            this.panel4.Controls.Add(this.button21);
+            this.panel4.Controls.Add(this.button22);
+            this.panel4.Controls.Add(this.button4);
+            this.panel4.Controls.Add(this.button3);
+            this.panel4.Controls.Add(this.button1);
+            this.panel4.Controls.Add(this.label34);
+            this.panel4.Location = new System.Drawing.Point(6, 6);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(799, 887);
+            this.panel4.TabIndex = 1;
+            // 
+            // pictureBox22
+            // 
+            this.pictureBox22.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox22.Image")));
+            this.pictureBox22.Location = new System.Drawing.Point(126, 679);
+            this.pictureBox22.Name = "pictureBox22";
+            this.pictureBox22.Size = new System.Drawing.Size(485, 25);
+            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox22.TabIndex = 24;
+            this.pictureBox22.TabStop = false;
+            // 
+            // pictureBox21
+            // 
+            this.pictureBox21.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox21.Image")));
+            this.pictureBox21.Location = new System.Drawing.Point(350, 636);
+            this.pictureBox21.Name = "pictureBox21";
+            this.pictureBox21.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox21.TabIndex = 23;
+            this.pictureBox21.TabStop = false;
+            // 
+            // pictureBox20
+            // 
+            this.pictureBox20.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox20.Image")));
+            this.pictureBox20.Location = new System.Drawing.Point(547, 399);
+            this.pictureBox20.Name = "pictureBox20";
+            this.pictureBox20.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox20.TabIndex = 22;
+            this.pictureBox20.TabStop = false;
+            // 
+            // pictureBox19
+            // 
+            this.pictureBox19.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox19.Image")));
+            this.pictureBox19.Location = new System.Drawing.Point(350, 399);
+            this.pictureBox19.Name = "pictureBox19";
+            this.pictureBox19.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox19.TabIndex = 21;
+            this.pictureBox19.TabStop = false;
+            // 
+            // pictureBox18
+            // 
+            this.pictureBox18.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox18.Image")));
+            this.pictureBox18.Location = new System.Drawing.Point(126, 399);
+            this.pictureBox18.Name = "pictureBox18";
+            this.pictureBox18.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox18.TabIndex = 20;
+            this.pictureBox18.TabStop = false;
+            // 
+            // pictureBox17
+            // 
+            this.pictureBox17.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox17.Image")));
+            this.pictureBox17.Location = new System.Drawing.Point(350, 221);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox17.TabIndex = 19;
+            this.pictureBox17.TabStop = false;
+            // 
+            // pictureBox16
+            // 
+            this.pictureBox16.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox16.Image")));
+            this.pictureBox16.Location = new System.Drawing.Point(99, 379);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(512, 25);
+            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox16.TabIndex = 18;
+            this.pictureBox16.TabStop = false;
+            // 
+            // pictureBox15
+            // 
+            this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
+            this.pictureBox15.Location = new System.Drawing.Point(126, 200);
+            this.pictureBox15.Name = "pictureBox15";
+            this.pictureBox15.Size = new System.Drawing.Size(469, 25);
+            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox15.TabIndex = 17;
+            this.pictureBox15.TabStop = false;
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
+            this.pictureBox14.Location = new System.Drawing.Point(547, 697);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox14.TabIndex = 16;
+            this.pictureBox14.TabStop = false;
+            // 
+            // pictureBox13
+            // 
+            this.pictureBox13.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox13.Image")));
+            this.pictureBox13.Location = new System.Drawing.Point(143, 697);
+            this.pictureBox13.Name = "pictureBox13";
+            this.pictureBox13.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox13.TabIndex = 15;
+            this.pictureBox13.TabStop = false;
+            // 
+            // pictureBox12
+            // 
+            this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
+            this.pictureBox12.Location = new System.Drawing.Point(350, 517);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox12.TabIndex = 14;
+            this.pictureBox12.TabStop = false;
+            // 
+            // pictureBox11
+            // 
+            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
+            this.pictureBox11.Location = new System.Drawing.Point(350, 347);
+            this.pictureBox11.Name = "pictureBox11";
+            this.pictureBox11.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox11.TabIndex = 13;
+            this.pictureBox11.TabStop = false;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Location = new System.Drawing.Point(532, 166);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(32, 37);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox10.TabIndex = 12;
+            this.pictureBox10.TabStop = false;
+            // 
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(6, 7);
+            this.pictureBox3.Location = new System.Drawing.Point(143, 166);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(1920, 1051);
+            this.pictureBox3.Size = new System.Drawing.Size(32, 37);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 0;
+            this.pictureBox3.TabIndex = 11;
             this.pictureBox3.TabStop = false;
+            // 
+            // button26
+            // 
+            this.button26.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button26.ForeColor = System.Drawing.Color.Navy;
+            this.button26.Location = new System.Drawing.Point(414, 740);
+            this.button26.Name = "button26";
+            this.button26.Size = new System.Drawing.Size(273, 84);
+            this.button26.TabIndex = 10;
+            this.button26.Text = "Tìm kiếm thống kê";
+            this.button26.UseVisualStyleBackColor = true;
+            // 
+            // button25
+            // 
+            this.button25.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button25.ForeColor = System.Drawing.Color.Navy;
+            this.button25.Location = new System.Drawing.Point(20, 740);
+            this.button25.Name = "button25";
+            this.button25.Size = new System.Drawing.Size(273, 78);
+            this.button25.TabIndex = 9;
+            this.button25.Text = "Danh sách văn bản đi";
+            this.button25.UseVisualStyleBackColor = true;
+            // 
+            // button24
+            // 
+            this.button24.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button24.ForeColor = System.Drawing.Color.Navy;
+            this.button24.Location = new System.Drawing.Point(222, 557);
+            this.button24.Name = "button24";
+            this.button24.Size = new System.Drawing.Size(273, 73);
+            this.button24.TabIndex = 8;
+            this.button24.Text = "Văn bản đi";
+            this.button24.UseVisualStyleBackColor = true;
+            // 
+            // button23
+            // 
+            this.button23.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button23.ForeColor = System.Drawing.Color.Navy;
+            this.button23.Location = new System.Drawing.Point(497, 438);
+            this.button23.Name = "button23";
+            this.button23.Size = new System.Drawing.Size(181, 73);
+            this.button23.TabIndex = 7;
+            this.button23.Text = "Sổ văn bản";
+            this.button23.UseVisualStyleBackColor = true;
+            // 
+            // button21
+            // 
+            this.button21.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button21.ForeColor = System.Drawing.Color.Navy;
+            this.button21.Location = new System.Drawing.Point(283, 438);
+            this.button21.Name = "button21";
+            this.button21.Size = new System.Drawing.Size(181, 73);
+            this.button21.TabIndex = 6;
+            this.button21.Text = "Nơi ban hành";
+            this.button21.UseVisualStyleBackColor = true;
+            // 
+            // button22
+            // 
+            this.button22.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button22.ForeColor = System.Drawing.Color.Navy;
+            this.button22.Location = new System.Drawing.Point(44, 438);
+            this.button22.Name = "button22";
+            this.button22.Size = new System.Drawing.Size(181, 69);
+            this.button22.TabIndex = 5;
+            this.button22.Text = "Loại văn bản";
+            this.button22.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.Color.Navy;
+            this.button4.Location = new System.Drawing.Point(222, 264);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(273, 77);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Văn bản đến";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button3
+            // 
+            this.button3.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.Navy;
+            this.button3.Location = new System.Drawing.Point(414, 81);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(273, 79);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Danh sách văn bản đi";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Navy;
+            this.button1.Location = new System.Drawing.Point(44, 81);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(263, 79);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Danh sách văn bản đến";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
+            // label34
+            // 
+            this.label34.AutoSize = true;
+            this.label34.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label34.ForeColor = System.Drawing.Color.Navy;
+            this.label34.Location = new System.Drawing.Point(183, 26);
+            this.label34.Name = "label34";
+            this.label34.Size = new System.Drawing.Size(436, 31);
+            this.label34.TabIndex = 0;
+            this.label34.Text = "QUY TRÌNH QUẢN LÝ VĂN BẢN ĐI ĐẾN";
             // 
             // tabPageVanBanNoiBo
             // 
             this.tabPageVanBanNoiBo.BackColor = System.Drawing.Color.Lavender;
             this.tabPageVanBanNoiBo.Controls.Add(this.tabControl3);
+            this.tabPageVanBanNoiBo.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tabPageVanBanNoiBo.Location = new System.Drawing.Point(4, 34);
             this.tabPageVanBanNoiBo.Name = "tabPageVanBanNoiBo";
             this.tabPageVanBanNoiBo.Padding = new System.Windows.Forms.Padding(3);
@@ -336,7 +931,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.XuatExcel.BackColor = System.Drawing.Color.LightYellow;
             this.XuatExcel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.XuatExcel.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.ex;
+            this.XuatExcel.Image = ((System.Drawing.Image)(resources.GetObject("XuatExcel.Image")));
             this.XuatExcel.Location = new System.Drawing.Point(197, 3);
             this.XuatExcel.Name = "XuatExcel";
             this.XuatExcel.Size = new System.Drawing.Size(47, 46);
@@ -349,7 +944,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.picLuu.BackColor = System.Drawing.Color.LightYellow;
             this.picLuu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picLuu.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.encrypted;
+            this.picLuu.Image = ((System.Drawing.Image)(resources.GetObject("picLuu.Image")));
             this.picLuu.Location = new System.Drawing.Point(132, 3);
             this.picLuu.Name = "picLuu";
             this.picLuu.Size = new System.Drawing.Size(47, 46);
@@ -362,7 +957,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.picXoa.BackColor = System.Drawing.Color.LightYellow;
             this.picXoa.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picXoa.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.trash;
+            this.picXoa.Image = ((System.Drawing.Image)(resources.GetObject("picXoa.Image")));
             this.picXoa.Location = new System.Drawing.Point(68, 3);
             this.picXoa.Name = "picXoa";
             this.picXoa.Size = new System.Drawing.Size(47, 46);
@@ -375,7 +970,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.picThemPhongBan.BackColor = System.Drawing.Color.LightYellow;
             this.picThemPhongBan.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picThemPhongBan.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.insert;
+            this.picThemPhongBan.Image = ((System.Drawing.Image)(resources.GetObject("picThemPhongBan.Image")));
             this.picThemPhongBan.Location = new System.Drawing.Point(4, 3);
             this.picThemPhongBan.Name = "picThemPhongBan";
             this.picThemPhongBan.Size = new System.Drawing.Size(47, 46);
@@ -601,7 +1196,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.LuuVBNB.BackColor = System.Drawing.Color.LightYellow;
             this.LuuVBNB.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.LuuVBNB.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.encrypted;
+            this.LuuVBNB.Image = ((System.Drawing.Image)(resources.GetObject("LuuVBNB.Image")));
             this.LuuVBNB.Location = new System.Drawing.Point(63, 3);
             this.LuuVBNB.Name = "LuuVBNB";
             this.LuuVBNB.Size = new System.Drawing.Size(47, 44);
@@ -614,7 +1209,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.ThemVBNB.BackColor = System.Drawing.Color.LightYellow;
             this.ThemVBNB.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ThemVBNB.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.insert;
+            this.ThemVBNB.Image = ((System.Drawing.Image)(resources.GetObject("ThemVBNB.Image")));
             this.ThemVBNB.Location = new System.Drawing.Point(4, 3);
             this.ThemVBNB.Name = "ThemVBNB";
             this.ThemVBNB.Size = new System.Drawing.Size(47, 47);
@@ -855,9 +1450,9 @@ namespace HeThongQuanLyVanBanCongVan
             this.panel11.Controls.Add(this.dateTimePicker1);
             this.panel11.Controls.Add(this.comboBox1);
             this.panel11.Controls.Add(this.label18);
-            this.panel11.Location = new System.Drawing.Point(33, 67);
+            this.panel11.Location = new System.Drawing.Point(60, 67);
             this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(1546, 141);
+            this.panel11.Size = new System.Drawing.Size(1519, 141);
             this.panel11.TabIndex = 9;
             // 
             // label20
@@ -954,7 +1549,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.LightYellow;
             this.pictureBox4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox4.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.ex;
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
             this.pictureBox4.Location = new System.Drawing.Point(212, 3);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(47, 46);
@@ -967,7 +1562,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnXoaVBNB.BackColor = System.Drawing.Color.LightYellow;
             this.btnXoaVBNB.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.btnXoaVBNB.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.trash;
+            this.btnXoaVBNB.Image = ((System.Drawing.Image)(resources.GetObject("btnXoaVBNB.Image")));
             this.btnXoaVBNB.Location = new System.Drawing.Point(145, 3);
             this.btnXoaVBNB.Name = "btnXoaVBNB";
             this.btnXoaVBNB.Size = new System.Drawing.Size(47, 46);
@@ -980,7 +1575,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnSuaVBNB.BackColor = System.Drawing.Color.LightYellow;
             this.btnSuaVBNB.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.btnSuaVBNB.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.service;
+            this.btnSuaVBNB.Image = ((System.Drawing.Image)(resources.GetObject("btnSuaVBNB.Image")));
             this.btnSuaVBNB.Location = new System.Drawing.Point(78, 3);
             this.btnSuaVBNB.Name = "btnSuaVBNB";
             this.btnSuaVBNB.Size = new System.Drawing.Size(47, 46);
@@ -993,7 +1588,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnThemVBNB.BackColor = System.Drawing.Color.LightYellow;
             this.btnThemVBNB.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.btnThemVBNB.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.insert;
+            this.btnThemVBNB.Image = ((System.Drawing.Image)(resources.GetObject("btnThemVBNB.Image")));
             this.btnThemVBNB.Location = new System.Drawing.Point(4, 3);
             this.btnThemVBNB.Name = "btnThemVBNB";
             this.btnThemVBNB.Size = new System.Drawing.Size(47, 46);
@@ -1006,17 +1601,18 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.dataGridViewVBNB.BackgroundColor = System.Drawing.SystemColors.Control;
             this.dataGridViewVBNB.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewVBNB.Location = new System.Drawing.Point(17, 279);
+            this.dataGridViewVBNB.Location = new System.Drawing.Point(41, 279);
             this.dataGridViewVBNB.Name = "dataGridViewVBNB";
             this.dataGridViewVBNB.RowHeadersWidth = 51;
             this.dataGridViewVBNB.RowTemplate.Height = 24;
-            this.dataGridViewVBNB.Size = new System.Drawing.Size(1562, 616);
+            this.dataGridViewVBNB.Size = new System.Drawing.Size(1538, 616);
             this.dataGridViewVBNB.TabIndex = 0;
             this.dataGridViewVBNB.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dataGridViewVBNB_MouseClick);
             // 
             // tabPageTimKiem
             // 
             this.tabPageTimKiem.Controls.Add(this.tabControl4);
+            this.tabPageTimKiem.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tabPageTimKiem.Location = new System.Drawing.Point(4, 34);
             this.tabPageTimKiem.Name = "tabPageTimKiem";
             this.tabPageTimKiem.Padding = new System.Windows.Forms.Padding(3);
@@ -1038,6 +1634,10 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             // tabPage7
             // 
+            this.tabPage7.Controls.Add(this.label57);
+            this.tabPage7.Controls.Add(this.panel17);
+            this.tabPage7.Controls.Add(this.panel16);
+            this.tabPage7.Controls.Add(this.label33);
             this.tabPage7.Location = new System.Drawing.Point(4, 34);
             this.tabPage7.Name = "tabPage7";
             this.tabPage7.Padding = new System.Windows.Forms.Padding(3);
@@ -1046,8 +1646,289 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabPage7.Text = "Thống kê văn bản đi";
             this.tabPage7.UseVisualStyleBackColor = true;
             // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label57.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.label57.Location = new System.Drawing.Point(576, 26);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(354, 31);
+            this.label57.TabIndex = 5;
+            this.label57.Text = "THỐNG KÊ VĂN BẢN NỘI BỘ ĐI";
+            // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.dataGridView1);
+            this.panel17.Controls.Add(this.label54);
+            this.panel17.Location = new System.Drawing.Point(0, 364);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(1540, 588);
+            this.panel17.TabIndex = 4;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(28, 77);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.Size = new System.Drawing.Size(1512, 461);
+            this.dataGridView1.TabIndex = 19;
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label54.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label54.Location = new System.Drawing.Point(23, 31);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(287, 25);
+            this.label54.TabIndex = 18;
+            this.label54.Text = "BẢNG DANH SÁCH VĂN BẢN ĐI";
+            // 
+            // panel16
+            // 
+            this.panel16.Controls.Add(this.button37);
+            this.panel16.Controls.Add(this.button39);
+            this.panel16.Controls.Add(this.button40);
+            this.panel16.Controls.Add(this.comboBox6);
+            this.panel16.Controls.Add(this.richTextBox2);
+            this.panel16.Controls.Add(this.textBox3);
+            this.panel16.Controls.Add(this.textBox4);
+            this.panel16.Controls.Add(this.dateTimePicker7);
+            this.panel16.Controls.Add(this.dateTimePicker8);
+            this.panel16.Controls.Add(this.label45);
+            this.panel16.Controls.Add(this.label46);
+            this.panel16.Controls.Add(this.label47);
+            this.panel16.Controls.Add(this.label48);
+            this.panel16.Controls.Add(this.label49);
+            this.panel16.Controls.Add(this.comboBox8);
+            this.panel16.Controls.Add(this.comboBox9);
+            this.panel16.Controls.Add(this.label51);
+            this.panel16.Controls.Add(this.label52);
+            this.panel16.Controls.Add(this.label53);
+            this.panel16.Location = new System.Drawing.Point(3, 81);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(1557, 263);
+            this.panel16.TabIndex = 3;
+            // 
+            // button37
+            // 
+            this.button37.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button37.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button37.Location = new System.Drawing.Point(1347, 22);
+            this.button37.Name = "button37";
+            this.button37.Size = new System.Drawing.Size(146, 43);
+            this.button37.TabIndex = 23;
+            this.button37.Text = "Tìm kiếm";
+            this.button37.UseVisualStyleBackColor = true;
+            // 
+            // button39
+            // 
+            this.button39.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button39.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button39.Location = new System.Drawing.Point(1347, 182);
+            this.button39.Name = "button39";
+            this.button39.Size = new System.Drawing.Size(146, 46);
+            this.button39.TabIndex = 21;
+            this.button39.Text = "Xuất file excel";
+            this.button39.UseVisualStyleBackColor = true;
+            // 
+            // button40
+            // 
+            this.button40.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button40.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button40.Location = new System.Drawing.Point(1347, 96);
+            this.button40.Name = "button40";
+            this.button40.Size = new System.Drawing.Size(146, 44);
+            this.button40.TabIndex = 20;
+            this.button40.Text = "Xem chi tiết";
+            this.button40.UseVisualStyleBackColor = true;
+            // 
+            // comboBox6
+            // 
+            this.comboBox6.FormattingEnabled = true;
+            this.comboBox6.Items.AddRange(new object[] {
+            "Hôm nay",
+            "Tuần này",
+            "Tháng này",
+            "Năm nay",
+            "Tháng 1",
+            "Tháng 2",
+            "Tháng 3",
+            "Tháng 4",
+            "Tháng 5",
+            "Tháng 6",
+            "Tháng 7",
+            "Tháng 8",
+            "Tháng 9",
+            "Tháng 10",
+            "Tháng 11",
+            "Tháng 12",
+            "Năm trước"});
+            this.comboBox6.Location = new System.Drawing.Point(212, 32);
+            this.comboBox6.Name = "comboBox6";
+            this.comboBox6.Size = new System.Drawing.Size(220, 33);
+            this.comboBox6.TabIndex = 18;
+            // 
+            // richTextBox2
+            // 
+            this.richTextBox2.Location = new System.Drawing.Point(947, 141);
+            this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.Size = new System.Drawing.Size(263, 96);
+            this.richTextBox2.TabIndex = 17;
+            this.richTextBox2.Text = "";
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(606, 177);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(255, 31);
+            this.textBox3.TabIndex = 16;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(606, 103);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(255, 31);
+            this.textBox4.TabIndex = 15;
+            // 
+            // dateTimePicker7
+            // 
+            this.dateTimePicker7.CalendarFont = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker7.Location = new System.Drawing.Point(1015, 31);
+            this.dateTimePicker7.Name = "dateTimePicker7";
+            this.dateTimePicker7.Size = new System.Drawing.Size(249, 31);
+            this.dateTimePicker7.TabIndex = 14;
+            // 
+            // dateTimePicker8
+            // 
+            this.dateTimePicker8.CalendarFont = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker8.Location = new System.Drawing.Point(606, 31);
+            this.dateTimePicker8.Name = "dateTimePicker8";
+            this.dateTimePicker8.Size = new System.Drawing.Size(255, 31);
+            this.dateTimePicker8.TabIndex = 13;
+            // 
+            // label45
+            // 
+            this.label45.AutoSize = true;
+            this.label45.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label45.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label45.Location = new System.Drawing.Point(902, 107);
+            this.label45.Name = "label45";
+            this.label45.Size = new System.Drawing.Size(205, 25);
+            this.label45.TabIndex = 12;
+            this.label45.Text = "Tìm kiếm theo từ khóa";
+            // 
+            // label46
+            // 
+            this.label46.AutoSize = true;
+            this.label46.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label46.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label46.Location = new System.Drawing.Point(896, 32);
+            this.label46.Name = "label46";
+            this.label46.Size = new System.Drawing.Size(91, 25);
+            this.label46.TabIndex = 11;
+            this.label46.Text = "đến ngày";
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label47.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label47.Location = new System.Drawing.Point(469, 180);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(90, 25);
+            this.label47.TabIndex = 10;
+            this.label47.Text = "Nơi nhận";
+            // 
+            // label48
+            // 
+            this.label48.AutoSize = true;
+            this.label48.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label48.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label48.Location = new System.Drawing.Point(469, 109);
+            this.label48.Name = "label48";
+            this.label48.Size = new System.Drawing.Size(100, 25);
+            this.label48.TabIndex = 9;
+            this.label48.Text = "Số ký hiệu";
+            // 
+            // label49
+            // 
+            this.label49.AutoSize = true;
+            this.label49.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label49.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label49.Location = new System.Drawing.Point(469, 31);
+            this.label49.Name = "label49";
+            this.label49.Size = new System.Drawing.Size(82, 25);
+            this.label49.TabIndex = 8;
+            this.label49.Text = "Từ ngày";
+            // 
+            // comboBox8
+            // 
+            this.comboBox8.FormattingEnabled = true;
+            this.comboBox8.Location = new System.Drawing.Point(212, 172);
+            this.comboBox8.Name = "comboBox8";
+            this.comboBox8.Size = new System.Drawing.Size(220, 33);
+            this.comboBox8.TabIndex = 6;
+            // 
+            // comboBox9
+            // 
+            this.comboBox9.FormattingEnabled = true;
+            this.comboBox9.Location = new System.Drawing.Point(212, 101);
+            this.comboBox9.Name = "comboBox9";
+            this.comboBox9.Size = new System.Drawing.Size(220, 33);
+            this.comboBox9.TabIndex = 5;
+            // 
+            // label51
+            // 
+            this.label51.AutoSize = true;
+            this.label51.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label51.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label51.Location = new System.Drawing.Point(23, 182);
+            this.label51.Name = "label51";
+            this.label51.Size = new System.Drawing.Size(120, 25);
+            this.label51.TabIndex = 2;
+            this.label51.Text = "Loại văn bản";
+            // 
+            // label52
+            // 
+            this.label52.AutoSize = true;
+            this.label52.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label52.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label52.Location = new System.Drawing.Point(23, 107);
+            this.label52.Name = "label52";
+            this.label52.Size = new System.Drawing.Size(106, 25);
+            this.label52.TabIndex = 1;
+            this.label52.Text = "Sổ văn bản";
+            // 
+            // label53
+            // 
+            this.label53.AutoSize = true;
+            this.label53.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label53.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label53.Location = new System.Drawing.Point(23, 24);
+            this.label53.Name = "label53";
+            this.label53.Size = new System.Drawing.Size(137, 25);
+            this.label53.TabIndex = 0;
+            this.label53.Text = "Chọn thời gian";
+            // 
+            // label33
+            // 
+            this.label33.AccessibleRole = System.Windows.Forms.AccessibleRole.Sound;
+            this.label33.AutoSize = true;
+            this.label33.Location = new System.Drawing.Point(332, 69);
+            this.label33.Name = "label33";
+            this.label33.Size = new System.Drawing.Size(0, 25);
+            this.label33.TabIndex = 0;
+            // 
             // tabPage8
             // 
+            this.tabPage8.Controls.Add(this.label56);
+            this.tabPage8.Controls.Add(this.panel18);
+            this.tabPage8.Controls.Add(this.panel15);
             this.tabPage8.Location = new System.Drawing.Point(4, 34);
             this.tabPage8.Name = "tabPage8";
             this.tabPage8.Padding = new System.Windows.Forms.Padding(3);
@@ -1055,6 +1936,275 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabPage8.TabIndex = 1;
             this.tabPage8.Text = "Thống kê văn bản đến";
             this.tabPage8.UseVisualStyleBackColor = true;
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label56.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.label56.Location = new System.Drawing.Point(550, 22);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(291, 31);
+            this.label56.TabIndex = 5;
+            this.label56.Text = "THỐNG KÊ VĂN BẢN ĐẾN";
+            // 
+            // panel18
+            // 
+            this.panel18.Controls.Add(this.dataGridView2);
+            this.panel18.Controls.Add(this.label55);
+            this.panel18.Location = new System.Drawing.Point(0, 378);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(1540, 588);
+            this.panel18.TabIndex = 4;
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(28, 77);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowHeadersWidth = 51;
+            this.dataGridView2.RowTemplate.Height = 24;
+            this.dataGridView2.Size = new System.Drawing.Size(1512, 461);
+            this.dataGridView2.TabIndex = 19;
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label55.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label55.Location = new System.Drawing.Point(23, 31);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(305, 25);
+            this.label55.TabIndex = 18;
+            this.label55.Text = "BẢNG DANH SÁCH VĂN BẢN ĐẾN";
+            // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.button33);
+            this.panel15.Controls.Add(this.button35);
+            this.panel15.Controls.Add(this.button36);
+            this.panel15.Controls.Add(this.comboBox2);
+            this.panel15.Controls.Add(this.richTextBox1);
+            this.panel15.Controls.Add(this.textBox1);
+            this.panel15.Controls.Add(this.textBox2);
+            this.panel15.Controls.Add(this.dateTimePicker5);
+            this.panel15.Controls.Add(this.dateTimePicker6);
+            this.panel15.Controls.Add(this.label36);
+            this.panel15.Controls.Add(this.label37);
+            this.panel15.Controls.Add(this.label38);
+            this.panel15.Controls.Add(this.label39);
+            this.panel15.Controls.Add(this.label40);
+            this.panel15.Controls.Add(this.comboBox4);
+            this.panel15.Controls.Add(this.comboBox5);
+            this.panel15.Controls.Add(this.label42);
+            this.panel15.Controls.Add(this.label43);
+            this.panel15.Controls.Add(this.label44);
+            this.panel15.Location = new System.Drawing.Point(3, 91);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(1557, 263);
+            this.panel15.TabIndex = 3;
+            // 
+            // button33
+            // 
+            this.button33.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button33.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button33.Location = new System.Drawing.Point(1335, 22);
+            this.button33.Name = "button33";
+            this.button33.Size = new System.Drawing.Size(146, 43);
+            this.button33.TabIndex = 23;
+            this.button33.Text = "Tìm kiếm";
+            this.button33.UseVisualStyleBackColor = true;
+            // 
+            // button35
+            // 
+            this.button35.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button35.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button35.Location = new System.Drawing.Point(1335, 164);
+            this.button35.Name = "button35";
+            this.button35.Size = new System.Drawing.Size(146, 46);
+            this.button35.TabIndex = 21;
+            this.button35.Text = "Xuất file excel";
+            this.button35.UseVisualStyleBackColor = true;
+            // 
+            // button36
+            // 
+            this.button36.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button36.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.button36.Location = new System.Drawing.Point(1335, 86);
+            this.button36.Name = "button36";
+            this.button36.Size = new System.Drawing.Size(146, 44);
+            this.button36.TabIndex = 20;
+            this.button36.Text = "Xem chi tiết";
+            this.button36.UseVisualStyleBackColor = true;
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.Items.AddRange(new object[] {
+            "Hôm nay",
+            "Tuần này",
+            "Tháng này",
+            "Năm nay",
+            "Tháng 1",
+            "Tháng 2",
+            "Tháng 3",
+            "Tháng 4",
+            "Tháng 5",
+            "Tháng 6",
+            "Tháng 7",
+            "Tháng 8",
+            "Tháng 9",
+            "Tháng 10",
+            "Tháng 11",
+            "Tháng 12",
+            "Năm trước"});
+            this.comboBox2.Location = new System.Drawing.Point(212, 32);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(220, 33);
+            this.comboBox2.TabIndex = 18;
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(939, 140);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(336, 96);
+            this.richTextBox1.TabIndex = 17;
+            this.richTextBox1.Text = "";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(606, 179);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(255, 31);
+            this.textBox1.TabIndex = 16;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(606, 103);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(255, 31);
+            this.textBox2.TabIndex = 15;
+            // 
+            // dateTimePicker5
+            // 
+            this.dateTimePicker5.CalendarFont = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker5.Location = new System.Drawing.Point(1026, 31);
+            this.dateTimePicker5.Name = "dateTimePicker5";
+            this.dateTimePicker5.Size = new System.Drawing.Size(249, 31);
+            this.dateTimePicker5.TabIndex = 14;
+            // 
+            // dateTimePicker6
+            // 
+            this.dateTimePicker6.CalendarFont = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker6.Location = new System.Drawing.Point(606, 31);
+            this.dateTimePicker6.Name = "dateTimePicker6";
+            this.dateTimePicker6.Size = new System.Drawing.Size(255, 31);
+            this.dateTimePicker6.TabIndex = 13;
+            // 
+            // label36
+            // 
+            this.label36.AutoSize = true;
+            this.label36.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label36.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label36.Location = new System.Drawing.Point(934, 105);
+            this.label36.Name = "label36";
+            this.label36.Size = new System.Drawing.Size(205, 25);
+            this.label36.TabIndex = 12;
+            this.label36.Text = "Tìm kiếm theo từ khóa";
+            // 
+            // label37
+            // 
+            this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label37.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label37.Location = new System.Drawing.Point(918, 32);
+            this.label37.Name = "label37";
+            this.label37.Size = new System.Drawing.Size(91, 25);
+            this.label37.TabIndex = 11;
+            this.label37.Text = "đến ngày";
+            // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label38.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label38.Location = new System.Drawing.Point(473, 188);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(127, 25);
+            this.label38.TabIndex = 10;
+            this.label38.Text = "Nơi ban hành";
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label39.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label39.Location = new System.Drawing.Point(473, 104);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(100, 25);
+            this.label39.TabIndex = 9;
+            this.label39.Text = "Số ký hiệu";
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label40.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label40.Location = new System.Drawing.Point(469, 31);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(82, 25);
+            this.label40.TabIndex = 8;
+            this.label40.Text = "Từ ngày";
+            // 
+            // comboBox4
+            // 
+            this.comboBox4.FormattingEnabled = true;
+            this.comboBox4.Location = new System.Drawing.Point(212, 177);
+            this.comboBox4.Name = "comboBox4";
+            this.comboBox4.Size = new System.Drawing.Size(220, 33);
+            this.comboBox4.TabIndex = 6;
+            // 
+            // comboBox5
+            // 
+            this.comboBox5.FormattingEnabled = true;
+            this.comboBox5.Location = new System.Drawing.Point(212, 97);
+            this.comboBox5.Name = "comboBox5";
+            this.comboBox5.Size = new System.Drawing.Size(220, 33);
+            this.comboBox5.TabIndex = 5;
+            // 
+            // label42
+            // 
+            this.label42.AutoSize = true;
+            this.label42.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label42.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label42.Location = new System.Drawing.Point(23, 185);
+            this.label42.Name = "label42";
+            this.label42.Size = new System.Drawing.Size(120, 25);
+            this.label42.TabIndex = 2;
+            this.label42.Text = "Loại văn bản";
+            // 
+            // label43
+            // 
+            this.label43.AutoSize = true;
+            this.label43.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label43.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label43.Location = new System.Drawing.Point(23, 106);
+            this.label43.Name = "label43";
+            this.label43.Size = new System.Drawing.Size(106, 25);
+            this.label43.TabIndex = 1;
+            this.label43.Text = "Sổ văn bản";
+            // 
+            // label44
+            // 
+            this.label44.AutoSize = true;
+            this.label44.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label44.ForeColor = System.Drawing.Color.MediumVioletRed;
+            this.label44.Location = new System.Drawing.Point(23, 24);
+            this.label44.Name = "label44";
+            this.label44.Size = new System.Drawing.Size(137, 25);
+            this.label44.TabIndex = 0;
+            this.label44.Text = "Chọn thời gian";
             // 
             // tabPage9
             // 
@@ -1073,7 +2223,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.panel13.Controls.Add(this.dataGridViewVBNB1);
             this.panel13.Controls.Add(this.label32);
-            this.panel13.Location = new System.Drawing.Point(34, 352);
+            this.panel13.Location = new System.Drawing.Point(17, 346);
             this.panel13.Name = "panel13";
             this.panel13.Size = new System.Drawing.Size(1540, 588);
             this.panel13.TabIndex = 3;
@@ -1133,18 +2283,19 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnTimKiem.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTimKiem.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.btnTimKiem.Location = new System.Drawing.Point(1304, 21);
+            this.btnTimKiem.Location = new System.Drawing.Point(1321, 13);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(146, 43);
             this.btnTimKiem.TabIndex = 23;
             this.btnTimKiem.Text = "Tìm kiếm";
             this.btnTimKiem.UseVisualStyleBackColor = true;
+            this.btnTimKiem.Click += new System.EventHandler(this.btnTimKiem_Click_1);
             // 
             // btnInbaocao
             // 
             this.btnInbaocao.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnInbaocao.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.btnInbaocao.Location = new System.Drawing.Point(1304, 191);
+            this.btnInbaocao.Location = new System.Drawing.Point(1321, 213);
             this.btnInbaocao.Name = "btnInbaocao";
             this.btnInbaocao.Size = new System.Drawing.Size(146, 47);
             this.btnInbaocao.TabIndex = 22;
@@ -1156,7 +2307,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnXuatExcel.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXuatExcel.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.btnXuatExcel.Location = new System.Drawing.Point(1304, 132);
+            this.btnXuatExcel.Location = new System.Drawing.Point(1321, 150);
             this.btnXuatExcel.Name = "btnXuatExcel";
             this.btnXuatExcel.Size = new System.Drawing.Size(146, 46);
             this.btnXuatExcel.TabIndex = 21;
@@ -1168,7 +2319,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             this.btnXemChiTiet.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnXemChiTiet.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.btnXemChiTiet.Location = new System.Drawing.Point(1304, 82);
+            this.btnXemChiTiet.Location = new System.Drawing.Point(1321, 82);
             this.btnXemChiTiet.Name = "btnXemChiTiet";
             this.btnXemChiTiet.Size = new System.Drawing.Size(146, 44);
             this.btnXemChiTiet.TabIndex = 20;
@@ -1197,7 +2348,7 @@ namespace HeThongQuanLyVanBanCongVan
             "Tháng 11",
             "Tháng 12",
             "Năm trước"});
-            this.ThoiGianTimKiem.Location = new System.Drawing.Point(212, 32);
+            this.ThoiGianTimKiem.Location = new System.Drawing.Point(212, 24);
             this.ThoiGianTimKiem.Name = "ThoiGianTimKiem";
             this.ThoiGianTimKiem.Size = new System.Drawing.Size(220, 33);
             this.ThoiGianTimKiem.TabIndex = 18;
@@ -1205,7 +2356,7 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             // nhapTrichYeu
             // 
-            this.nhapTrichYeu.Location = new System.Drawing.Point(1015, 119);
+            this.nhapTrichYeu.Location = new System.Drawing.Point(1015, 97);
             this.nhapTrichYeu.Name = "nhapTrichYeu";
             this.nhapTrichYeu.Size = new System.Drawing.Size(263, 96);
             this.nhapTrichYeu.TabIndex = 17;
@@ -1213,14 +2364,14 @@ namespace HeThongQuanLyVanBanCongVan
             // 
             // nhapTenVanBan
             // 
-            this.nhapTenVanBan.Location = new System.Drawing.Point(606, 182);
+            this.nhapTenVanBan.Location = new System.Drawing.Point(606, 137);
             this.nhapTenVanBan.Name = "nhapTenVanBan";
             this.nhapTenVanBan.Size = new System.Drawing.Size(255, 31);
             this.nhapTenVanBan.TabIndex = 16;
             // 
             // nhapSoKyHieu
             // 
-            this.nhapSoKyHieu.Location = new System.Drawing.Point(606, 103);
+            this.nhapSoKyHieu.Location = new System.Drawing.Point(606, 82);
             this.nhapSoKyHieu.Name = "nhapSoKyHieu";
             this.nhapSoKyHieu.Size = new System.Drawing.Size(255, 31);
             this.nhapSoKyHieu.TabIndex = 15;
@@ -1246,7 +2397,7 @@ namespace HeThongQuanLyVanBanCongVan
             this.label31.AutoSize = true;
             this.label31.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label31.Location = new System.Drawing.Point(902, 107);
+            this.label31.Location = new System.Drawing.Point(897, 88);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(90, 25);
             this.label31.TabIndex = 12;
@@ -1268,7 +2419,7 @@ namespace HeThongQuanLyVanBanCongVan
             this.label29.AutoSize = true;
             this.label29.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label29.Location = new System.Drawing.Point(469, 172);
+            this.label29.Location = new System.Drawing.Point(469, 143);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(115, 25);
             this.label29.TabIndex = 10;
@@ -1279,7 +2430,7 @@ namespace HeThongQuanLyVanBanCongVan
             this.label28.AutoSize = true;
             this.label28.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label28.Location = new System.Drawing.Point(469, 97);
+            this.label28.Location = new System.Drawing.Point(469, 82);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(100, 25);
             this.label28.TabIndex = 9;
@@ -1299,7 +2450,7 @@ namespace HeThongQuanLyVanBanCongVan
             // ChonCmbPhongBanNhan
             // 
             this.ChonCmbPhongBanNhan.FormattingEnabled = true;
-            this.ChonCmbPhongBanNhan.Location = new System.Drawing.Point(212, 184);
+            this.ChonCmbPhongBanNhan.Location = new System.Drawing.Point(212, 199);
             this.ChonCmbPhongBanNhan.Name = "ChonCmbPhongBanNhan";
             this.ChonCmbPhongBanNhan.Size = new System.Drawing.Size(220, 33);
             this.ChonCmbPhongBanNhan.TabIndex = 7;
@@ -1325,7 +2476,7 @@ namespace HeThongQuanLyVanBanCongVan
             this.label26.AutoSize = true;
             this.label26.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label26.Location = new System.Drawing.Point(23, 192);
+            this.label26.Location = new System.Drawing.Point(23, 202);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(152, 25);
             this.label26.TabIndex = 3;
@@ -1336,7 +2487,7 @@ namespace HeThongQuanLyVanBanCongVan
             this.label25.AutoSize = true;
             this.label25.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label25.ForeColor = System.Drawing.Color.MediumVioletRed;
-            this.label25.Location = new System.Drawing.Point(23, 141);
+            this.label25.Location = new System.Drawing.Point(23, 143);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(152, 25);
             this.label25.TabIndex = 2;
@@ -1378,12 +2529,79 @@ namespace HeThongQuanLyVanBanCongVan
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(247)))), ((int)(((byte)(250)))));
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel3.Controls.Add(this.btnTimKiemThongKe);
+            this.panel3.Controls.Add(this.btnQuanLyVbNoiBo);
+            this.panel3.Controls.Add(this.btnQuanLyVanBan);
+            this.panel3.Controls.Add(this.btnHeThong);
+            this.panel3.Controls.Add(this.pictureBox9);
             this.panel3.Controls.Add(this.tabControl1);
-            this.panel3.Controls.Add(this.panel4);
             this.panel3.Location = new System.Drawing.Point(3, 47);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(410, 1005);
             this.panel3.TabIndex = 1;
+            // 
+            // btnTimKiemThongKe
+            // 
+            this.btnTimKiemThongKe.BackColor = System.Drawing.Color.OldLace;
+            this.btnTimKiemThongKe.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTimKiemThongKe.ForeColor = System.Drawing.Color.Black;
+            this.btnTimKiemThongKe.Location = new System.Drawing.Point(59, 821);
+            this.btnTimKiemThongKe.Name = "btnTimKiemThongKe";
+            this.btnTimKiemThongKe.Size = new System.Drawing.Size(294, 59);
+            this.btnTimKiemThongKe.TabIndex = 3;
+            this.btnTimKiemThongKe.Text = "Tìm kiếm - Thống kê";
+            this.btnTimKiemThongKe.UseVisualStyleBackColor = false;
+            this.btnTimKiemThongKe.Click += new System.EventHandler(this.btnTimKiemThongKe_Click);
+            // 
+            // btnQuanLyVbNoiBo
+            // 
+            this.btnQuanLyVbNoiBo.BackColor = System.Drawing.Color.OldLace;
+            this.btnQuanLyVbNoiBo.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuanLyVbNoiBo.ForeColor = System.Drawing.Color.Black;
+            this.btnQuanLyVbNoiBo.Location = new System.Drawing.Point(59, 744);
+            this.btnQuanLyVbNoiBo.Name = "btnQuanLyVbNoiBo";
+            this.btnQuanLyVbNoiBo.Size = new System.Drawing.Size(294, 59);
+            this.btnQuanLyVbNoiBo.TabIndex = 2;
+            this.btnQuanLyVbNoiBo.Text = "Quản lý văn bản nội bộ";
+            this.btnQuanLyVbNoiBo.UseVisualStyleBackColor = false;
+            this.btnQuanLyVbNoiBo.Click += new System.EventHandler(this.btnQuanLyVbNoiBo_Click);
+            // 
+            // btnQuanLyVanBan
+            // 
+            this.btnQuanLyVanBan.BackColor = System.Drawing.Color.OldLace;
+            this.btnQuanLyVanBan.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuanLyVanBan.ForeColor = System.Drawing.Color.Black;
+            this.btnQuanLyVanBan.Location = new System.Drawing.Point(59, 672);
+            this.btnQuanLyVanBan.Name = "btnQuanLyVanBan";
+            this.btnQuanLyVanBan.Size = new System.Drawing.Size(294, 52);
+            this.btnQuanLyVanBan.TabIndex = 1;
+            this.btnQuanLyVanBan.Text = "Quản lý văn bản";
+            this.btnQuanLyVanBan.UseVisualStyleBackColor = false;
+            this.btnQuanLyVanBan.Click += new System.EventHandler(this.btnQuanLyVanBan_Click);
+            // 
+            // btnHeThong
+            // 
+            this.btnHeThong.BackColor = System.Drawing.Color.OldLace;
+            this.btnHeThong.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHeThong.ForeColor = System.Drawing.Color.Black;
+            this.btnHeThong.Location = new System.Drawing.Point(59, 605);
+            this.btnHeThong.Name = "btnHeThong";
+            this.btnHeThong.Size = new System.Drawing.Size(294, 51);
+            this.btnHeThong.TabIndex = 0;
+            this.btnHeThong.Text = "Hệ thống";
+            this.btnHeThong.UseVisualStyleBackColor = false;
+            this.btnHeThong.Click += new System.EventHandler(this.btnHeThong_Click);
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
+            this.pictureBox9.Location = new System.Drawing.Point(-5, 539);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(418, 451);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox9.TabIndex = 3;
+            this.pictureBox9.TabStop = false;
             // 
             // tabControl1
             // 
@@ -1391,22 +2609,24 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tabControl1.Location = new System.Drawing.Point(21, 5);
+            this.tabControl1.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabControl1.Location = new System.Drawing.Point(-5, -2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(368, 485);
+            this.tabControl1.Size = new System.Drawing.Size(421, 539);
             this.tabControl1.TabIndex = 2;
             // 
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.button7);
-            this.tabPage1.Controls.Add(this.button6);
             this.tabPage1.Controls.Add(this.button5);
+            this.tabPage1.Controls.Add(this.button6);
+            this.tabPage1.Controls.Add(this.pictureBox5);
+            this.tabPage1.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.tabPage1.Location = new System.Drawing.Point(4, 34);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(360, 447);
+            this.tabPage1.Size = new System.Drawing.Size(413, 501);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Hệ thống";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -1414,35 +2634,48 @@ namespace HeThongQuanLyVanBanCongVan
             // button7
             // 
             this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button7.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button7.Location = new System.Drawing.Point(19, 216);
+            this.button7.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.ForeColor = System.Drawing.Color.Black;
+            this.button7.Location = new System.Drawing.Point(60, 269);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(294, 49);
+            this.button7.Size = new System.Drawing.Size(294, 71);
             this.button7.TabIndex = 2;
             this.button7.Text = "Thông tin người ký duyệt";
             this.button7.UseVisualStyleBackColor = false;
             // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.button5.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.ForeColor = System.Drawing.Color.Black;
+            this.button5.Location = new System.Drawing.Point(60, 87);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(294, 66);
+            this.button5.TabIndex = 0;
+            this.button5.Text = "Quản lý người dùng";
+            this.button5.UseVisualStyleBackColor = false;
+            // 
             // button6
             // 
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button6.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button6.Location = new System.Drawing.Point(19, 114);
+            this.button6.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.ForeColor = System.Drawing.Color.Black;
+            this.button6.Location = new System.Drawing.Point(60, 177);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(294, 49);
+            this.button6.Size = new System.Drawing.Size(294, 71);
             this.button6.TabIndex = 1;
             this.button6.Text = "Phân quyền nhân viên";
             this.button6.UseVisualStyleBackColor = false;
             // 
-            // button5
+            // pictureBox5
             // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button5.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(19, 28);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(294, 49);
-            this.button5.TabIndex = 0;
-            this.button5.Text = "Quản lý người dùng";
-            this.button5.UseVisualStyleBackColor = false;
+            this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
+            this.pictureBox5.Location = new System.Drawing.Point(-4, 6);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(413, 495);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 3;
+            this.pictureBox5.TabStop = false;
             // 
             // tabPage2
             // 
@@ -1454,21 +2687,24 @@ namespace HeThongQuanLyVanBanCongVan
             this.tabPage2.Controls.Add(this.button10);
             this.tabPage2.Controls.Add(this.button9);
             this.tabPage2.Controls.Add(this.button8);
+            this.tabPage2.Controls.Add(this.pictureBox6);
             this.tabPage2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tabPage2.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.tabPage2.Location = new System.Drawing.Point(4, 34);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(360, 447);
+            this.tabPage2.Size = new System.Drawing.Size(413, 501);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Văn bản";
             // 
             // button14
             // 
             this.button14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button14.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button14.Location = new System.Drawing.Point(29, 380);
+            this.button14.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button14.ForeColor = System.Drawing.Color.Black;
+            this.button14.Location = new System.Drawing.Point(49, 421);
             this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(283, 41);
+            this.button14.Size = new System.Drawing.Size(321, 56);
             this.button14.TabIndex = 6;
             this.button14.Text = "Danh sách văn bản đi";
             this.button14.UseVisualStyleBackColor = false;
@@ -1476,10 +2712,11 @@ namespace HeThongQuanLyVanBanCongVan
             // button13
             // 
             this.button13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button13.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button13.Location = new System.Drawing.Point(29, 319);
+            this.button13.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button13.ForeColor = System.Drawing.Color.Black;
+            this.button13.Location = new System.Drawing.Point(49, 352);
             this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(283, 41);
+            this.button13.Size = new System.Drawing.Size(321, 59);
             this.button13.TabIndex = 5;
             this.button13.Text = "Danh sách văn bản đến";
             this.button13.UseVisualStyleBackColor = false;
@@ -1487,10 +2724,11 @@ namespace HeThongQuanLyVanBanCongVan
             // button12
             // 
             this.button12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button12.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button12.Location = new System.Drawing.Point(29, 259);
+            this.button12.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button12.ForeColor = System.Drawing.Color.Black;
+            this.button12.Location = new System.Drawing.Point(49, 293);
             this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(283, 41);
+            this.button12.Size = new System.Drawing.Size(321, 53);
             this.button12.TabIndex = 4;
             this.button12.Text = "Văn bản đi";
             this.button12.UseVisualStyleBackColor = false;
@@ -1498,10 +2736,11 @@ namespace HeThongQuanLyVanBanCongVan
             // button11
             // 
             this.button11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button11.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button11.Location = new System.Drawing.Point(29, 197);
+            this.button11.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button11.ForeColor = System.Drawing.Color.Black;
+            this.button11.Location = new System.Drawing.Point(49, 228);
             this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(283, 41);
+            this.button11.Size = new System.Drawing.Size(321, 58);
             this.button11.TabIndex = 3;
             this.button11.Text = "Văn bản đến";
             this.button11.UseVisualStyleBackColor = false;
@@ -1509,10 +2748,11 @@ namespace HeThongQuanLyVanBanCongVan
             // button10
             // 
             this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button10.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button10.Location = new System.Drawing.Point(29, 133);
+            this.button10.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.ForeColor = System.Drawing.Color.Black;
+            this.button10.Location = new System.Drawing.Point(49, 169);
             this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(283, 41);
+            this.button10.Size = new System.Drawing.Size(321, 53);
             this.button10.TabIndex = 2;
             this.button10.Text = "Nơi ban hành";
             this.button10.UseVisualStyleBackColor = false;
@@ -1520,10 +2760,11 @@ namespace HeThongQuanLyVanBanCongVan
             // button9
             // 
             this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button9.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button9.Location = new System.Drawing.Point(29, 77);
+            this.button9.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button9.ForeColor = System.Drawing.Color.Black;
+            this.button9.Location = new System.Drawing.Point(49, 112);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(283, 41);
+            this.button9.Size = new System.Drawing.Size(321, 51);
             this.button9.TabIndex = 1;
             this.button9.Text = "Loại văn bản";
             this.button9.UseVisualStyleBackColor = false;
@@ -1531,24 +2772,36 @@ namespace HeThongQuanLyVanBanCongVan
             // button8
             // 
             this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button8.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(51)))));
-            this.button8.Location = new System.Drawing.Point(29, 20);
+            this.button8.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.ForeColor = System.Drawing.Color.Black;
+            this.button8.Location = new System.Drawing.Point(49, 52);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(283, 41);
+            this.button8.Size = new System.Drawing.Size(321, 54);
             this.button8.TabIndex = 0;
             this.button8.Text = "Số văn bản";
             this.button8.UseVisualStyleBackColor = false;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Image = global::HeThongQuanLyVanBanCongVan.Properties.Resources.ngua;
+            this.pictureBox6.Location = new System.Drawing.Point(4, -7);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(414, 502);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 7;
+            this.pictureBox6.TabStop = false;
             // 
             // tabPage3
             // 
             this.tabPage3.Controls.Add(this.button17);
             this.tabPage3.Controls.Add(this.button16);
             this.tabPage3.Controls.Add(this.button15);
+            this.tabPage3.Controls.Add(this.pictureBox7);
+            this.tabPage3.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.tabPage3.Location = new System.Drawing.Point(4, 34);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(360, 447);
+            this.tabPage3.Size = new System.Drawing.Size(413, 501);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Văn bản nội bộ";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -1556,8 +2809,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button17
             // 
             this.button17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button17.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button17.Location = new System.Drawing.Point(30, 220);
+            this.button17.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button17.ForeColor = System.Drawing.Color.Black;
+            this.button17.Location = new System.Drawing.Point(68, 313);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(283, 50);
             this.button17.TabIndex = 2;
@@ -1568,8 +2822,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button16
             // 
             this.button16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button16.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button16.Location = new System.Drawing.Point(30, 121);
+            this.button16.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button16.ForeColor = System.Drawing.Color.Black;
+            this.button16.Location = new System.Drawing.Point(68, 216);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(283, 50);
             this.button16.TabIndex = 1;
@@ -1580,8 +2835,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button15
             // 
             this.button15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button15.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button15.Location = new System.Drawing.Point(30, 28);
+            this.button15.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button15.ForeColor = System.Drawing.Color.Black;
+            this.button15.Location = new System.Drawing.Point(68, 124);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(283, 50);
             this.button15.TabIndex = 0;
@@ -1589,15 +2845,27 @@ namespace HeThongQuanLyVanBanCongVan
             this.button15.UseVisualStyleBackColor = false;
             this.button15.Click += new System.EventHandler(this.button15_Click);
             // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
+            this.pictureBox7.Location = new System.Drawing.Point(0, 3);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(404, 495);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 3;
+            this.pictureBox7.TabStop = false;
+            // 
             // tabPage4
             // 
             this.tabPage4.Controls.Add(this.button20);
             this.tabPage4.Controls.Add(this.button19);
             this.tabPage4.Controls.Add(this.button18);
+            this.tabPage4.Controls.Add(this.pictureBox8);
+            this.tabPage4.ForeColor = System.Drawing.Color.MediumVioletRed;
             this.tabPage4.Location = new System.Drawing.Point(4, 34);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(360, 447);
+            this.tabPage4.Size = new System.Drawing.Size(413, 501);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Tìm kiếm - Thống kê";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -1605,8 +2873,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button20
             // 
             this.button20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button20.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button20.Location = new System.Drawing.Point(14, 203);
+            this.button20.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button20.ForeColor = System.Drawing.Color.Black;
+            this.button20.Location = new System.Drawing.Point(60, 279);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(299, 49);
             this.button20.TabIndex = 2;
@@ -1617,8 +2886,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button19
             // 
             this.button19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button19.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button19.Location = new System.Drawing.Point(14, 113);
+            this.button19.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button19.ForeColor = System.Drawing.Color.Black;
+            this.button19.Location = new System.Drawing.Point(60, 192);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(299, 49);
             this.button19.TabIndex = 1;
@@ -1629,8 +2899,9 @@ namespace HeThongQuanLyVanBanCongVan
             // button18
             // 
             this.button18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button18.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button18.Location = new System.Drawing.Point(14, 28);
+            this.button18.Font = new System.Drawing.Font("Segoe UI Semibold", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button18.ForeColor = System.Drawing.Color.Black;
+            this.button18.Location = new System.Drawing.Point(60, 103);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(299, 49);
             this.button18.TabIndex = 0;
@@ -1638,71 +2909,20 @@ namespace HeThongQuanLyVanBanCongVan
             this.button18.UseVisualStyleBackColor = false;
             this.button18.Click += new System.EventHandler(this.button18_Click);
             // 
-            // panel4
+            // pictureBox8
             // 
-            this.panel4.BackColor = System.Drawing.SystemColors.HighlightText;
-            this.panel4.Controls.Add(this.btnTimKiemThongKe);
-            this.panel4.Controls.Add(this.btnQuanLyVbNoiBo);
-            this.panel4.Controls.Add(this.btnQuanLyVanBan);
-            this.panel4.Controls.Add(this.btnHeThong);
-            this.panel4.Location = new System.Drawing.Point(21, 496);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(364, 363);
-            this.panel4.TabIndex = 2;
-            // 
-            // btnTimKiemThongKe
-            // 
-            this.btnTimKiemThongKe.BackColor = System.Drawing.Color.Wheat;
-            this.btnTimKiemThongKe.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTimKiemThongKe.Location = new System.Drawing.Point(34, 235);
-            this.btnTimKiemThongKe.Name = "btnTimKiemThongKe";
-            this.btnTimKiemThongKe.Size = new System.Drawing.Size(283, 43);
-            this.btnTimKiemThongKe.TabIndex = 3;
-            this.btnTimKiemThongKe.Text = "Tìm kiếm - Thống kê";
-            this.btnTimKiemThongKe.UseVisualStyleBackColor = false;
-            this.btnTimKiemThongKe.Click += new System.EventHandler(this.btnTimKiemThongKe_Click);
-            // 
-            // btnQuanLyVbNoiBo
-            // 
-            this.btnQuanLyVbNoiBo.BackColor = System.Drawing.Color.Wheat;
-            this.btnQuanLyVbNoiBo.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnQuanLyVbNoiBo.Location = new System.Drawing.Point(34, 167);
-            this.btnQuanLyVbNoiBo.Name = "btnQuanLyVbNoiBo";
-            this.btnQuanLyVbNoiBo.Size = new System.Drawing.Size(283, 41);
-            this.btnQuanLyVbNoiBo.TabIndex = 2;
-            this.btnQuanLyVbNoiBo.Text = "Quản lý văn bản nội bộ";
-            this.btnQuanLyVbNoiBo.UseVisualStyleBackColor = false;
-            this.btnQuanLyVbNoiBo.Click += new System.EventHandler(this.btnQuanLyVbNoiBo_Click);
-            // 
-            // btnQuanLyVanBan
-            // 
-            this.btnQuanLyVanBan.BackColor = System.Drawing.Color.Wheat;
-            this.btnQuanLyVanBan.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnQuanLyVanBan.Location = new System.Drawing.Point(34, 93);
-            this.btnQuanLyVanBan.Name = "btnQuanLyVanBan";
-            this.btnQuanLyVanBan.Size = new System.Drawing.Size(283, 39);
-            this.btnQuanLyVanBan.TabIndex = 1;
-            this.btnQuanLyVanBan.Text = "Quản lý văn bản";
-            this.btnQuanLyVanBan.UseVisualStyleBackColor = false;
-            this.btnQuanLyVanBan.Click += new System.EventHandler(this.btnQuanLyVanBan_Click);
-            // 
-            // btnHeThong
-            // 
-            this.btnHeThong.BackColor = System.Drawing.Color.Wheat;
-            this.btnHeThong.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnHeThong.Location = new System.Drawing.Point(34, 25);
-            this.btnHeThong.Name = "btnHeThong";
-            this.btnHeThong.Size = new System.Drawing.Size(283, 41);
-            this.btnHeThong.TabIndex = 0;
-            this.btnHeThong.Text = "Hệ thống";
-            this.btnHeThong.UseVisualStyleBackColor = false;
-            this.btnHeThong.Click += new System.EventHandler(this.btnHeThong_Click);
+            this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
+            this.pictureBox8.Location = new System.Drawing.Point(-1, 3);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(407, 502);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox8.TabIndex = 3;
+            this.pictureBox8.TabStop = false;
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.Honeydew;
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Controls.Add(this.pictureBox1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -1710,17 +2930,6 @@ namespace HeThongQuanLyVanBanCongVan
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(1920, 46);
             this.panel2.TabIndex = 0;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(1864, 1);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(51, 46);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
-            this.pictureBox2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.pictureBox2_MouseClick);
             // 
             // pictureBox1
             // 
@@ -1738,10 +2947,9 @@ namespace HeThongQuanLyVanBanCongVan
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.đăngNhậpLạiToolStripMenuItem,
-            this.đổiMậtKhẩuToolStripMenuItem,
             this.thoátToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(172, 76);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(172, 52);
             // 
             // đăngNhậpLạiToolStripMenuItem
             // 
@@ -1749,17 +2957,12 @@ namespace HeThongQuanLyVanBanCongVan
             this.đăngNhậpLạiToolStripMenuItem.Size = new System.Drawing.Size(171, 24);
             this.đăngNhậpLạiToolStripMenuItem.Text = "Đăng nhập lại";
             // 
-            // đổiMậtKhẩuToolStripMenuItem
-            // 
-            this.đổiMậtKhẩuToolStripMenuItem.Name = "đổiMậtKhẩuToolStripMenuItem";
-            this.đổiMậtKhẩuToolStripMenuItem.Size = new System.Drawing.Size(171, 24);
-            this.đổiMậtKhẩuToolStripMenuItem.Text = "Đổi mật khẩu";
-            // 
             // thoátToolStripMenuItem
             // 
             this.thoátToolStripMenuItem.Name = "thoátToolStripMenuItem";
             this.thoátToolStripMenuItem.Size = new System.Drawing.Size(171, 24);
             this.thoátToolStripMenuItem.Text = "Thoát";
+            this.thoátToolStripMenuItem.Click += new System.EventHandler(this.thoátToolStripMenuItem_Click);
             // 
             // contextMenuStrip2
             // 
@@ -1797,6 +3000,32 @@ namespace HeThongQuanLyVanBanCongVan
             this.panel1.ResumeLayout(false);
             this.tabControl2.ResumeLayout(false);
             this.tabPage5.ResumeLayout(false);
+            this.panel14.ResumeLayout(false);
+            this.panel14.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox31)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.tabPageVanBanNoiBo.ResumeLayout(false);
             this.tabControl3.ResumeLayout(false);
@@ -1829,6 +3058,20 @@ namespace HeThongQuanLyVanBanCongVan
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewVBNB)).EndInit();
             this.tabPageTimKiem.ResumeLayout(false);
             this.tabControl4.ResumeLayout(false);
+            this.tabPage7.ResumeLayout(false);
+            this.tabPage7.PerformLayout();
+            this.panel17.ResumeLayout(false);
+            this.panel17.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.panel16.ResumeLayout(false);
+            this.panel16.PerformLayout();
+            this.tabPage8.ResumeLayout(false);
+            this.tabPage8.PerformLayout();
+            this.panel18.ResumeLayout(false);
+            this.panel18.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            this.panel15.ResumeLayout(false);
+            this.panel15.PerformLayout();
             this.tabPage9.ResumeLayout(false);
             this.tabPage9.PerformLayout();
             this.panel13.ResumeLayout(false);
@@ -1837,19 +3080,22 @@ namespace HeThongQuanLyVanBanCongVan
             this.panel12.ResumeLayout(false);
             this.panel12.PerformLayout();
             this.panel3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
             this.tabPage2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
             this.tabPage3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             this.tabPage4.ResumeLayout(false);
-            this.panel4.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
             this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
             this.contextMenuStrip2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1858,13 +3104,11 @@ namespace HeThongQuanLyVanBanCongVan
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.TabPage tabPage3;
         private System.Windows.Forms.TabPage tabPage4;
         private System.Windows.Forms.Button btnTimKiemThongKe;
@@ -1872,7 +3116,6 @@ namespace HeThongQuanLyVanBanCongVan
         private System.Windows.Forms.Button btnQuanLyVanBan;
         private System.Windows.Forms.Button btnHeThong;
         private System.Windows.Forms.BindingSource bindingSource1;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button14;
@@ -1890,14 +3133,12 @@ namespace HeThongQuanLyVanBanCongVan
         private System.Windows.Forms.Button button18;
         private ContextMenuStrip contextMenuStrip1;
         private ToolStripMenuItem đăngNhậpLạiToolStripMenuItem;
-        private ToolStripMenuItem đổiMậtKhẩuToolStripMenuItem;
         private ToolStripMenuItem thoátToolStripMenuItem;
         private ContextMenuStrip contextMenuStrip2;
         private ToolStripMenuItem sửaThôngTinNgườiDùngToolStripMenuItem;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private TabControl tabControl2;
         private TabPage tabPage5;
-        private PictureBox pictureBox3;
         private TabPage tabPageVanBanNoiBo;
         private TabControl tabControl3;
         private TabPage tabPagePhongBan;
@@ -1995,6 +3236,103 @@ namespace HeThongQuanLyVanBanCongVan
         private Button btnXemChiTiet;
         private System.IO.FileSystemWatcher fileSystemWatcher1;
         private Button btnTimKiem;
+        private Button button5;
+        private PictureBox pictureBox5;
+        private PictureBox pictureBox6;
+        private PictureBox pictureBox7;
+        private Label label33;
+        private PictureBox pictureBox8;
+        private PictureBox pictureBox9;
+        private Panel panel14;
+        private Panel panel4;
+        private Label label34;
+        private Label label35;
+        private Button button22;
+        private Button button4;
+        private Button button3;
+        private Button button1;
+        private Button button26;
+        private Button button25;
+        private Button button24;
+        private Button button23;
+        private Button button21;
+        private Button button32;
+        private Button button31;
+        private Button button30;
+        private Button button29;
+        private Button button28;
+        private Button button27;
+        private PictureBox pictureBox3;
+        private PictureBox pictureBox12;
+        private PictureBox pictureBox11;
+        private PictureBox pictureBox10;
+        private PictureBox pictureBox14;
+        private PictureBox pictureBox13;
+        private PictureBox pictureBox15;
+        private PictureBox pictureBox16;
+        private PictureBox pictureBox17;
+        private PictureBox pictureBox20;
+        private PictureBox pictureBox19;
+        private PictureBox pictureBox18;
+        private PictureBox pictureBox22;
+        private PictureBox pictureBox21;
+        private PictureBox pictureBox31;
+        private PictureBox pictureBox30;
+        private PictureBox pictureBox29;
+        private PictureBox pictureBox28;
+        private PictureBox pictureBox27;
+        private PictureBox pictureBox26;
+        private PictureBox pictureBox25;
+        private PictureBox pictureBox24;
+        private PictureBox pictureBox23;
+        private Panel panel16;
+        private Button button37;
+        private Button button39;
+        private Button button40;
+        private ComboBox comboBox6;
+        private RichTextBox richTextBox2;
+        private TextBox textBox3;
+        private TextBox textBox4;
+        private DateTimePicker dateTimePicker7;
+        private DateTimePicker dateTimePicker8;
+        private Label label45;
+        private Label label46;
+        private Label label47;
+        private Label label48;
+        private Label label49;
+        private ComboBox comboBox8;
+        private ComboBox comboBox9;
+        private Label label51;
+        private Label label52;
+        private Label label53;
+        private Panel panel15;
+        private Button button33;
+        private Button button35;
+        private Button button36;
+        private ComboBox comboBox2;
+        private RichTextBox richTextBox1;
+        private TextBox textBox1;
+        private TextBox textBox2;
+        private DateTimePicker dateTimePicker5;
+        private DateTimePicker dateTimePicker6;
+        private Label label36;
+        private Label label37;
+        private Label label38;
+        private Label label39;
+        private Label label40;
+        private ComboBox comboBox4;
+        private ComboBox comboBox5;
+        private Label label42;
+        private Label label43;
+        private Label label44;
+        private Panel panel17;
+        private DataGridView dataGridView1;
+        private Label label54;
+        private Label label56;
+        private Panel panel18;
+        private DataGridView dataGridView2;
+        private Label label55;
+        private Label label57;
     }
 }
 

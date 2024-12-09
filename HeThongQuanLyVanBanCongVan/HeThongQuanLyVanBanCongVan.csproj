@@ -100,6 +100,12 @@
     <Compile Include="View\ChiTietVanBanNoiBo.Designer.cs">
       <DependentUpon>ChiTietVanBanNoiBo.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\FormDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormDangNhap.Designer.cs">
+      <DependentUpon>FormDangNhap.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\SQLException.cs" />
     <Compile Include="View\TrangCho.cs">
       <SubType>Form</SubType>
@@ -184,6 +190,114 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\ex.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compliant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANHCS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANHCS1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tcho.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anhnen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khung.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANHCS2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anhnen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anhnen2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xanh nen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nenHong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ANHCS3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4 pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anhdepqua.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\len.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up-broken-line-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ww.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\da.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\231.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\khung1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ngua.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

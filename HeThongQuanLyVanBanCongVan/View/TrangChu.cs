@@ -991,10 +991,10 @@ namespace HeThongQuanLyVanBanCongVan
         private void pictureBox2_MouseClick(object sender, MouseEventArgs e)
         {
             // Tính vị trí bên dưới PictureBox
-            var position = pictureBox2.PointToScreen(new Point(0, pictureBox2.Height));
+       //     var position = pictureBox2.PointToScreen(new Point(0, pictureBox2.Height));
 
             // Hiển thị ContextMenuStrip tại vị trí tính toán
-            contextMenuStrip2.Show(position);
+            //contextMenuStrip2.Show(position);
         }
 
 
@@ -1816,12 +1816,74 @@ namespace HeThongQuanLyVanBanCongVan
             e.Graphics.DrawString("Quản lý văn bản", new Font("Arial", 12, FontStyle.Italic), Brushes.Black, new Point(250, e.MarginBounds.Bottom + 20));
         }
 
+        private void btnTimKiem_Click_1(object sender, EventArgs e)
+        {
+            string loaiBanHanh = chonCmbLoaiBanHanh.SelectedItem?.ToString();
+            string phongBanHanh = chonCmbPhongBanHanh.SelectedItem?.ToString();
+            string phongBanNhan = ChonCmbPhongBanNhan.SelectedItem?.ToString();
+            string soKyHieu = nhapSoKyHieu.Text.Trim();
+            string tenVanBan = nhapTenVanBan.Text.Trim();
+            string trichYeu = nhapTrichYeu.Text.Trim();
 
+            DateTime? startDate = null, endDate = null;
+            switch (ThoiGianTimKiem.SelectedItem?.ToString())
+            {
+                case "Hôm nay":
+                    startDate = DateTime.Today;
+                    endDate = DateTime.Today.AddDays(1).AddSeconds(-1);
+                    break;
+                case "Tuần này":
+                    startDate = DateTime.Today.AddDays(-(int)DateTime.Today.DayOfWeek);
+                    endDate = startDate.Value.AddDays(7).AddSeconds(-1);
+                    break;
+                case "Tháng này":
+                    startDate = new DateTime(DateTime.Today.Year, DateTime.Today.Month, 1);
+                    endDate = startDate.Value.AddMonths(1).AddSeconds(-1);
+                    break;
+                case "Năm nay":
+                    startDate = new DateTime(DateTime.Today.Year, 1, 1);
+                    endDate = startDate.Value.AddYears(1).AddSeconds(-1);
+                    break;
+                case "Năm trước":
+                    startDate = new DateTime(DateTime.Today.Year - 1, 1, 1);
+                    endDate = startDate.Value.AddYears(1).AddSeconds(-1);
+                    break;
+            }
 
+            VanBanNoiBoController controller = new VanBanNoiBoController();
+            try
+            {
+                List<VanBanNoiBo> resultList = controller.Search(loaiBanHanh, phongBanHanh, phongBanNhan,
+                                                                  soKyHieu, tenVanBan, trichYeu, startDate, endDate);
 
+               dataGridViewVBNB1.Rows.Clear(); // Xóa dữ liệu cũ
+                foreach (VanBanNoiBo item in resultList)
+                {
+                    dataGridViewVBNB1.Rows.Add(
+                        item.SoKyHieu,
+                        item.TenVanBan,
+                        item.NgayBanHanh,
+                        item.LoaiBanHanh,
+                        item.PhongBanHanh,
+                        item.PhongNhan,
+                        item.NguoiNhan,
+                        item.NguoiKy,
+                        item.NguoiDuyet,
+                        item.TrichYeu,
+                        item.NoiDung
+                    );
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi khi tìm kiếm: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
 
-
-     
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(0);
+        }
     }
 }
 
